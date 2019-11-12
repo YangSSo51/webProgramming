@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>회원가입처리</title>
 </head>
 <body>
 	<jsp:setProperty property="*" name="bean"/>

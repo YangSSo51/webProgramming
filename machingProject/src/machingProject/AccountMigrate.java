@@ -1,6 +1,5 @@
 package machingProject;
 import java.sql.*;
-import machingProject.DBConnection;
 
 public class AccountMigrate {
 	static Connection con =null;
