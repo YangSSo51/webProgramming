@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>로그인 페이지</title>
 <!-- 자바스크립트 추가하기-check -->
 <style>
 	#hidden{
